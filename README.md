@@ -19,8 +19,8 @@
 
 - 🔭 I’m currently working as a Project Manager for a museum
 
-- 🌱 I’m learning React.js <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20">
 
+- 🌱 I’m learning React.js <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20">
 - 💬 Ask me about geek stuff like <img src="https://media.giphy.com/media/LmBLaWEvjIObZuekhE/giphy.gif" width="30"><img src="https://media.giphy.com/media/2aC6RGDCyvq5RKM5pu/giphy.gif" width="30"><img src="https://media.giphy.com/media/QAmY7aoFRj13hEMFd6/giphy.gif" width="30">
  
 
